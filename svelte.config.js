@@ -8,6 +8,7 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
+		appDir: 'app',
 		paths: {
             base: process.env.NODE_ENV === 'production' ? '/chunwyu.github.io' : '',
         },
