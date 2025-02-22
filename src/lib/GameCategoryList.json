@@ -1,0 +1,202 @@
+{
+    "RPG": [
+        "Final Fantasy (excl. 11/14, see MMOs)",
+        "Tales ",
+        "Persona ",
+        "Shin Megami Tensei",
+        "Nethack",
+        "Baldur's Gate",
+        "Phantasy Star",
+        "Dragon Age",
+        "Mother",
+        "SaGa",
+        "Chrono",
+        "Atelier",
+        "Etrian Odyssey"
+    ],
+    "Action RPG": [
+        "Mass Effect",
+        "Yakuza",
+        "Dark Souls",
+        "Witcher",
+        "Mana",
+        "Knights of the Old Republic",
+        "The Elder Scrolls"
+    ],
+    "MMOs": [
+        "World of Warcraft",
+        "Final Fantasy XI/XIV",
+        "Guild Wars",
+        "Ultima",
+        "EverQuest",
+        "EVE Online",
+        "Maple Story",
+        "RuneScape",
+        "Star Wars: The Old Republic"
+    ],
+    "3P action/adventure": [
+        "Assassin's Creed",
+        "Bayonetta",
+        "Crash Bandicoot",
+        "Ratchet & Clank",
+        "Spyro",
+        "Luigi's Mansion",
+        "Grand Theft Auto",
+        "Silent Hill",
+        "Resident Evil",
+        "Dead Space",
+        "Alan Wake / Control",
+        "Armored Core",
+        "Monster Hunter",
+        "Drakengard",
+        "NieR",
+        "Max Payne",
+        "Lego",
+        "Splinter Cell",
+        "Metal Gear ",
+        "Hitman",
+        "The Last of Us",
+        "Dynasty Warriors",
+        "Ninja Gaiden",
+        "Devil May Cry",
+        "God of War"
+    ],
+    "Strategy": [
+        "Starcraft",
+        "Warcraft (excl. WoW, see MMOs)",
+        "Command and Conquer",
+        "Civilization",
+        "Age of Empires",
+        "Crusader Kings",
+        "Total War",
+        "Europa Universalis",
+        "Fire Emblem",
+        "Pikmin",
+        "XCOM",
+        "Valkyrie Chronicles"
+    ],
+    "Fighting": [
+        "Street Fighter",
+        "Tekken",
+        "Marvel vs Capcom",
+        "Soul Calibur",
+        "Guilty Gear",
+        "Super Smash Bros",
+        "Dead or Alive",
+        "Mortal Kombat",
+        "The King of Fighters",
+        "Streets of Rage"
+    ],
+    "Sports": [
+        "Gran Turismo",
+        "Need for Speed",
+        "FIFA",
+        "Madden NFL",
+        "NBA 2K",
+        "PGA Tour",
+        "Tony Hawk's Pro Skater ",
+        "Rocket League",
+        "Mario Golf"
+    ],
+    "Party": [
+        "Mario Party",
+        "Mario Kart",
+        "Jackbox"
+    ],
+    "Platformers": [
+        "Super Mario",
+        "Prince of Persia",
+        "Rayman",
+        "Metroid",
+        "Castlevania",
+        "Sonic the Hedgehog",
+        "Megaman/Rockman (incl. Zero)",
+        "Donkey Kong",
+        "Super Monkey Ball",
+        "Terraria",
+        "Kirby"
+    ],
+    "Shoot-em-ups / Bullet Hells": [
+        "Touhou",
+        "Metal Slug",
+        "Raiden",
+        "Geometry Wars",
+        "Contra",
+        "Star Fox"
+    ],
+    "Point and Click": [
+        "Five Nights at Freddy's ",
+        "Monkey Island"
+    ],
+    "Shooters": [
+        "Call of Duty",
+        "Bioshock",
+        "Doom",
+        "Quake",
+        "Battlefield",
+        "Destiny",
+        "Wolfenstein",
+        "Serious Sam",
+        "Duke Nukem",
+        "Overwatch",
+        "Deus Ex",
+        "Unreal Tournament",
+        "Halo",
+        "Payday",
+        "Far Cry / Crysis",
+        "Fallout",
+        "Ghost Recon",
+        "Portal",
+        "Team Fortress",
+        "Counter-Strike",
+        "Gears of War",
+        "Apex Legends",
+        "Half Life",
+        "Rainbow Six",
+        "Arma"
+    ],
+    "Arcade shooters ": [
+        "Time Crisis",
+        "Virtua Cop"
+    ],
+    "MOBAs": [
+        "DotA",
+        "League of Legends",
+        "Heroes of the Storm",
+        "Smite"
+    ],
+    "Other": [
+        "Bomberman",
+        "Minecraft",
+        "Pokemon",
+        "Worms"
+    ],
+    "Puzzle": [
+        "Tetris",
+        "Puyo Puyo",
+        "Bubble Bobble",
+        "Picross"
+    ],
+    "Rhythm": [
+        "Dance Dance Revolution",
+        "Beat/Guitar/Drummania",
+        "Guitar Hero / Rock Band",
+        "Parappa the Rapper ",
+        "Rhythm Heaven",
+        "Warioware"
+    ],
+    "Building/Sim": [
+        "Harvest Moon",
+        "Stardew Valley",
+        "Game Dev Story (or any other game by Kairosoft)",
+        "Rollercoaster Tycoon ",
+        "Railroad Tycoon",
+        "Transport Tycoon",
+        "SimCity",
+        "The Sims",
+        "Any other Maxis Sim game (e.g. Tower, Ant, Town, Copter, etc.)",
+        "Flight Simulator",
+        "Anno",
+        "Tropico"
+    ]
+}
