@@ -9,12 +9,7 @@ const config = {
 
 	kit: {
 		appDir: 'app',
-		paths: {
-            base: process.env.NODE_ENV === 'production' ? '/chunwyu.github.io' : '',
-        },
-		adapter: adapter({
-			fallback: 'app.html' // may differ from host to host 
-		})
+		adapter: adapter()
 	}
 };
 
